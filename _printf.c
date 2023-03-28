@@ -3,7 +3,10 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
+<<<<<<< HEAD
  * _printf - function that produces output according to format
+=======
+>>>>>>> f6227aea87a33cac4acef61b24d252885a3cdf49
  * _printf - Printf function
  * @format: format.
  * Return: Printed chars.
